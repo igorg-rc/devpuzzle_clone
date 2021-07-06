@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.979c7aa8.chunk.css",
+    "main.js": "/static/js/main.7a53298a.chunk.js",
+    "main.js.map": "/static/js/main.7a53298a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7545a8a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7545a8a1.js.map",
+    "static/css/2.6b560088.chunk.css": "/static/css/2.6b560088.chunk.css",
+    "static/js/2.c2856d6a.chunk.js": "/static/js/2.c2856d6a.chunk.js",
+    "static/js/2.c2856d6a.chunk.js.map": "/static/js/2.c2856d6a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.979c7aa8.chunk.css.map": "/static/css/main.979c7aa8.chunk.css.map",
+    "static/js/2.c2856d6a.chunk.js.LICENSE.txt": "/static/js/2.c2856d6a.chunk.js.LICENSE.txt",
+    "static/media/backend.02e5cd38.png": "/static/media/backend.02e5cd38.png",
+    "static/media/bg_intro.8d581e2a.jpg": "/static/media/bg_intro.8d581e2a.jpg",
+    "static/media/booking_enterprice.fe758f34.png": "/static/media/booking_enterprice.fe758f34.png",
+    "static/media/data-scrapping.2e7fbe80.png": "/static/media/data-scrapping.2e7fbe80.png",
+    "static/media/database.29e82f13.png": "/static/media/database.29e82f13.png",
+    "static/media/e-commerce.efa24522.png": "/static/media/e-commerce.efa24522.png",
+    "static/media/enterprice.f78d20a7.png": "/static/media/enterprice.f78d20a7.png",
+    "static/media/finance_trading.0db74d9c.png": "/static/media/finance_trading.0db74d9c.png",
+    "static/media/footer_map.1103d87e.png": "/static/media/footer_map.1103d87e.png",
+    "static/media/frontend.a7179757.png": "/static/media/frontend.a7179757.png",
+    "static/media/main_logo.b97da4c0.png": "/static/media/main_logo.b97da4c0.png",
+    "static/media/services.a938db94.png": "/static/media/services.a938db94.png",
+    "static/media/social-network.191d70fe.png": "/static/media/social-network.191d70fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7545a8a1.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.c2856d6a.chunk.js",
+    "static/css/main.979c7aa8.chunk.css",
+    "static/js/main.7a53298a.chunk.js"
+  ]
+}
