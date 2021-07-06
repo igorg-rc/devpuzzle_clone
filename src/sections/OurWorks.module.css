@@ -1,0 +1,76 @@
+.Main {
+  background: #212121;
+  color: #fff;
+  padding: 5vh 0 20vh 0;
+}
+
+.CardHolder {
+  padding-top: 7vh;
+}
+
+.ProjectTitle {
+  padding-top: 3vh;
+  padding-bottom: 12vh;
+  font-size: 26 !important;
+  margin-bottom: 125;
+  overflow-wrap: break-word;
+  font-family: 'Rajdhani', sans-serif !important;
+  font-weight: 500 !important;
+  text-transform: uppercase ;
+}
+
+.Holder {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  backface-visibility: hidden;
+  border-radius: 0 !important;
+  background: #00C3FF !important;
+}
+
+.Img {
+  display: block;
+  width: 90%;
+  height: auto;
+  margin: 0 auto;
+  top: 0;
+  left: 0;
+  padding: 3vh 0;
+}
+
+.Overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  background-color: rgba(0,0,0, 0.8);
+}
+
+.Holder:hover .Overlay {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.TextHolder {
+  width: 80% !important;
+}
+
+.OverlayText {
+  color: white;
+  position: absolute;
+  font-size: 1.2rem !important;
+  font-family: 'Rajdhani', 'sans-serif' !important;
+  top: 20px;
+  margin: 0 20px !important;
+  text-align: justify;
+}
+
+@media (min-width: 980px) and (max-width: 1200px) {
+  .OverlayText{
+    font-size: 1.4rem !important;
+  }
+}

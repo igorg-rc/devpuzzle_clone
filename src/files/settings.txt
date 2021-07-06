@@ -1,0 +1,13 @@
+colors: {
+  primary: #00C3FF;
+  secondary: #212121;
+},
+text: {
+  blue: #00C3FF;
+  grey: #A8A8A8;
+  red: #FF0000;
+}
+
+font: {
+  fontFamily: Rajdhani
+}
